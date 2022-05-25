@@ -1,6 +1,4 @@
 # Rubber_Hand_VR_UoU
 Class project for Virtual Reality
 
-Google Drive link to zipped Source
-
-https://drive.google.com/file/d/1V8BzjyomwdFz-6ZrIzTQryqXubxCb3GP/view?usp=sharing
+This class covered everything from the graphics pipeline to foveated rendering, horopters, anaglyph renders, and a final project that we developed in Unity based on the Rubber Hand Experiement.
