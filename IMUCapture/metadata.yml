@@ -1,0 +1,14 @@
+---
+:id: 104323425
+:submitters:
+- :name: MIKE SWENSON
+  :email: u0585863@utah.edu
+- :name: ALEX HUDSON
+  :email: u1039058@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-12-09 21:22:37.580485000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-12-09 13:22:37.580485000 Z
+:status: processed
+:score: 45.0
